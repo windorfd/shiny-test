@@ -2,7 +2,7 @@
 
 # Define UI 
 ui <- fluidPage(
-  title="Aid for planning SPT screening experiments,v0.2",
+  title="Aid for planning SPT screening experiments,v0.2.01",
   # Intro / explanations ----
   fluidRow(
     column(12, 
