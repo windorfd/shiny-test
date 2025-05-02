@@ -1,2 +1,2 @@
 # shiny-test
-Repo for holding Dana's test code pushed from RStudio and pulled from lnxshinytest
+Repo for holding Dana's test code pushed from RStudio and pulled from ekhqshinytest1
